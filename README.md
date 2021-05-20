@@ -20,5 +20,19 @@
   </ul>
  <br>
   </h2>
+
+# About the Game
+
+  <h3><ul> 
+    <li>Your aim in this game is to reach the position marked in red in the map.</li>
+  <li> There you need to <b>hit the burinig ball</b> to win the match.</li>
+    <li> There are enemys trying to stop you on your path.</li>
+  <li> you can shoot them by pressing <b>'space bar'</b>on the keyboard.</li>
+    <li> Press 'R' on the keyboard to reset position when neede.</li>
+    </ul>
+    
+  </h3>
+  <br>
+  
   <b><h4>| Android version is under build |</h4> </b>
   
