@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h2> <b> This is a FPS shooter game. Version 1.0 supported for windows platform.
+<h2> <b> This is a FPS shooter game. Version 1.1 supported for windows platform.
   </h2> </b>
  <br>
  <br>
@@ -29,6 +29,7 @@
     <li> There are enemys trying to stop you on your path.</li>
   <li> you can shoot them by pressing <b>'space bar'</b>on the keyboard.</li>
     <li> Press 'R' on the keyboard to reset position when needed.</li>
+  <li> Use keys "A" and "D" to turn the camera or view </li>
     </ul>
     
   </h3>
