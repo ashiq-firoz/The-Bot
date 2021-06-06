@@ -34,6 +34,8 @@
     
   </h3>
   <br>
-  
-  <b><h4>| Android version is under build |</h4> </b>
+ 
+# Android version
+
+ <h3> Click <a href="https://github.com/ashiq-firoz/The-Bot-Android"> here</a> to get android version
   
