@@ -37,5 +37,5 @@
  
 # Android version
 
- <h3> Click <a href="https://github.com/ashiq-firoz/The-Bot-Android"> here</a> to get android version
+ <h3> Click <a href="https://github.com/ashiq-firoz/The-Bot--Android"> here</a> to get android version
   
